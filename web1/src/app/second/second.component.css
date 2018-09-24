@@ -1,0 +1,13 @@
+
+h1{
+    color:rgb(235, 0, 215);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sub{
+    padding-top: 25px;
+}
+.row{
+    padding-top: 10px;
+}
+
