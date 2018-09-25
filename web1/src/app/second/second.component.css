@@ -14,10 +14,9 @@ h1{
     font-size: 20px;
 }
 .container{
-    size: 100px;
+    
     background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=abstract-background-blur-255379.jpg&fm=jpg") 
-    /*background-image: url("http://www.onlygfx.com/4-light-red-watercolor-splash-background-jpg/");*/
-
+    
 }
 
 
